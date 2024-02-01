@@ -1,0 +1,14 @@
+{
+    "code": "category",
+    "parent": null,
+    "media": null,
+    "translations": {
+        "fr_FR": {
+            "name": "Cat\u00e9gorie",
+            "slug": "categorie",
+            "description": null
+        }
+    },
+    "children": [],
+    "collection": []
+}
